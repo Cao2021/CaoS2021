@@ -1,0 +1,16 @@
+<html>
+<head>
+<title> Son webpage 2019 </title>
+<body>
+header {
+background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;	
+}
+body { background-image:url('mw.jpg');
+background-repeat:no-repeat;
+background-position:center;
+width="1280"; height="960";
+background-color:yellow;}
+
