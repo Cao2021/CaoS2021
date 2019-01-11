@@ -1,0 +1,27 @@
+<<html>
+<head>
+<title>About me-Son </title>
+<style>
+header {
+background-color:black;
+    color:blue;
+    text-align:center;
+    padding:5px;
+body { background-image:url('Aboutmewallpaper.opt.png');
+background-repeat:no-repeat;
+background-position:center;
+width="1280"; height="960";
+background-color:black;}    
+h1 {font-family:Times New Roman; font-size:500%;text-align:center;}
+p {font-family:Palantino Linotype;font-size:}100%;}
+a {font-family:Palantino Linotype;font-size:130%;}   
+</head>
+</style>
+<body>
+<p>
+<h1> About me </h1>
+</p>
+<p> My name is Son and I'm a sophomore this year. This site you see right here is my own Digital Engineering website.</p>
+<a > This is an image of me and my friends doing challenges given out by the teacher </a>
+</body>
+</html>
