@@ -1,22 +1,22 @@
 <html>
+
 <head>
-<title> Week 1 </title>
+<title> Week 1 Rotation</title>
+
 <style>
-header {
-background-color:black;
-    color:blue;
-    text-align:center;
-    padding:5px;	
-}
-h1 {font-family:Times New Roman; font-size:200%;text-align:center;}
-p {font-family:Palantino Linotype;font-size:}100%;}
-a {font-family:Palantino Linotype;font-size:130%;}
+h1 {font-family:verdana; font-size:200%;text-align:center;}
+h2 {font-family:verdana; font-size:150%;text-align:center;}
+h3 {font-family:verdana; font-size:125%;}
+p {font-family:verdana;font-size:100%;}
+li {font-family:verdana;font-size:100%}
+a {font-family:verdana;font-size:}100%;}
 </style>
-</head>
+
 <body>
+<h1> Week 1 Rotation</h1>
+<h2>Principle of Digital Fabrication, Desgin Challenges and HTML</h1>
 <p>
-<h1> Week 1 rotation </h1>
+<hr style="width:50%">
 </p>
-<p> Week 1 things to do: </p>
-</body>
-</html>
+
+
